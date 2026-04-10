@@ -1,5 +1,6 @@
 streamlit
-crewai
+crewai==0.28.8
+langchain-groq
 reportlab
 python-docx
-langchain-groq
+pydantic<2.8
