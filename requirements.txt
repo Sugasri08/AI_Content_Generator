@@ -1,6 +1,6 @@
 streamlit
-crewai==0.28.8
-langchain-groq
+crewai
+groq
+python-dotenv
 reportlab
 python-docx
-pydantic<2.8
