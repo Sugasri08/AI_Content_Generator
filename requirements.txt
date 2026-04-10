@@ -1,7 +1,5 @@
 streamlit
 crewai
-crewai-tools
-langchain
-langchain-community
-openai
-python-dotenv
+reportlab
+python-docx
+langchain-groq
